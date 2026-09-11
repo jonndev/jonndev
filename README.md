@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jonndev
-- 👀 I’m interested in any kind of IT knowledge.
-- 🌱 I’m currently learning clouds like AWS, Azure, GCP.
-- 💞️ I’m looking to collaborate on a community for SaaS-related things.
+- 👀 I’m interested in any kind of IT knowledge and skills.
 - 📫 How to reach me ..
 
 <!---
